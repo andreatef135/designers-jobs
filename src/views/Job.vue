@@ -13,6 +13,14 @@ import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
   name: "Job",
+      metaInfo: {
+      title: 'My Example App',
+      titleTemplate: '%s - Yay!',
+      htmlAttrs: {
+        lang: 'en',
+        amp: true
+      }
+    },
   components: {
     JobPage,
     HelloWorld
