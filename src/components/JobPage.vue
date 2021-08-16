@@ -45,6 +45,12 @@
         </div>
       </div>
     </div>
+    <div class="alert alert-warning d-flex align-items-center" role="alert">
+      <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:"><use xlink:href="#exclamation-triangle-fill"/></svg>
+      <div>
+       شغل مصممين ليست شركة توظيف وانما موقع للاعلان عن الوظائف الخالية المتاحة يوميا فى الاف الشركات بالشرق الاوسط ,ونرجو عند طلب اي مبالغ مالية من قبل المعلنين مراسلتنا فورا و عدم التعامل مع مثل هذه الشركات الوهمية .
+      </div>
+    </div>
         <hr class="my-3">
 
   </div>
