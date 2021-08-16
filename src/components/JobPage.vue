@@ -12,6 +12,7 @@
     <div class="col-8">
       <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" class="scrollspy-example" tabindex="0">
         <div>
+            <h1>{{job.jobTitle}}</h1>
             <h4 id="list-item-1">تفاصيل الوظيفة:</h4>
             <p>{{job.jobDesc}}</p>
             <h4 id="list-item-1">الراتب ونوع العمل:</h4>
